@@ -1,0 +1,14 @@
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/bin/Debug/net8.0/Calculadora
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll

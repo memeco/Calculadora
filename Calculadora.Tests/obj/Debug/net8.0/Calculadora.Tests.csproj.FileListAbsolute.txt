@@ -1,0 +1,7 @@
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Calculadora.Tests
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/obj/Debug/net8.0/Calculadora.Tests.csproj.AssemblyReference.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/obj/Debug/net8.0/Calculadora.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/obj/Debug/net8.0/Calculadora.Tests.AssemblyInfoInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/obj/Debug/net8.0/Calculadora.Tests.AssemblyInfo.cs
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/Calc/Calculadora.Tests/obj/Debug/net8.0/Calculadora.Tests.csproj.CoreCompileInputs.cache
